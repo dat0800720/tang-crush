@@ -11,7 +11,7 @@ const CONFIG = {
     btnNo: 'Khônggg, không bắn nhưng vẫn xem:3',
     question:'ối dồi ôi ngại thế 😙. Đã không muốn nhận mà cứ phải nhận. Bidv:21510002476499 nha <33',
     btnReply: 'Gửi tin cho Đạt <3',
-    reply: 'nhập vào đây nè k để mình nhập cho',
+    reply: 'nói mình đẹp trai đúng không?',
     mess: 'Bạn đã hoàn thành tới đây rồi thì mình đành phải phô thôi. 😘😘',
     messDesc: 'À bạn phải banking cho mình rồi thì link fb ms chuẩn nha k sai đó .',
     btnAccept: 'click để xem fb ny mình <3',
